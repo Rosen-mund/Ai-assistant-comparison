@@ -1,0 +1,8 @@
+streamlit
+openai
+transformers
+torch
+accelerate
+python-dotenv
+pandas
+google-generativeai

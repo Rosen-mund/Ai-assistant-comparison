@@ -1,0 +1,25 @@
+import google.generativeai as genai
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+genai.configure(
+    api_key=os.getenv("GEMINI_API_KEY")
+)
+
+model = genai.GenerativeModel("gemini-2.5-flash")
+
+def generate_frontier_response(messages):
+
+    conversation = ""
+
+    for msg in messages:
+        role = msg["role"]
+        content = msg["content"]
+
+        conversation += f"{role}: {content}\n"
+
+    response = model.generate_content(conversation)
+
+    return response.text
