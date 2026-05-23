@@ -1,8 +1,8 @@
 streamlit
-openai
 transformers
 torch
 accelerate
+sentencepiece
+google-generativeai
 python-dotenv
 pandas
-google-generativeai
