@@ -48,7 +48,7 @@ Deployment:
 ## 1. Clone Repository
 
 ```bash
-git clone YOUR_REPO_LINK
+git clone [YOUR_REPO_LINK](https://github.com/Rosen-mund/Ai-assistant-comparison.git)
 cd Ai-assistant-comparison
 ```
 
