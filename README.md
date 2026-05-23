@@ -15,8 +15,7 @@ The application supports:
 - interaction logging
 
 Deployment:
-[Your Hugging Face Space Link]
-
+[https://huggingface.co/spaces/anweshab02/awes]
 ---
 
 # Features
@@ -48,7 +47,7 @@ Deployment:
 ## 1. Clone Repository
 
 ```bash
-git clone [YOUR_REPO_LINK](https://github.com/Rosen-mund/Ai-assistant-comparison.git)
+git clone https://github.com/Rosen-mund/Ai-assistant-comparison.git
 cd Ai-assistant-comparison
 ```
 
@@ -176,13 +175,16 @@ With more development time, the following improvements could be implemented:
 # Deployment
 
 Hugging Face Space:
-[YOUR_DEPLOYMENT_LINK]
+[https://huggingface.co/spaces/anweshab02/awes]
 
 ---
 
 # Screenshots
 
-(Add screenshots here)
+<img width="1909" height="866" alt="Screenshot 2026-05-23 185658" src="https://github.com/user-attachments/assets/f3deb47f-7637-41ef-a3c5-4c09af1e16ee" />
+<img width="1907" height="872" alt="Screenshot 2026-05-23 185745" src="https://github.com/user-attachments/assets/2be80cee-5765-4b32-8faa-c9524cde97be" />
+
+
 
 ---
 
